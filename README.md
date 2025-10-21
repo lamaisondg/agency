@@ -20,7 +20,7 @@ Nous accompagnons les ONG, PME, institutions et entreprises dans la création de
 ## 🚀 Mise en ligne
 
 Ce site est hébergé via *GitHub Pages* :  
-👉 [https://github.com/lamaisondg/agency.git](https://github.com/lamaisondg/agency.git)
+👉 [https://lamaisondg.github.io/agency/](https://lamaisondg.github.io/agency/)
 
 ## 📬 Contact
 
