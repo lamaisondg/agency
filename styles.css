@@ -107,7 +107,7 @@ p, li {
 
 .logo {
   height: 100px;
-  width: 100px;
+  width: auto;
   margin-right: 10px;
 }
 .brand {
